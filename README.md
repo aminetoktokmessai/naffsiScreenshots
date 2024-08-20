@@ -4,16 +4,16 @@
 
 ![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/naffsi%20screenshots%20/homepaget.png)
 
-![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/appointp2.png)
+![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/naffsi%20screenshots%20/appointp2.png)
 
-![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/chrome1.png)
+![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/naffsi%20screenshots%20/chrome1.png)
 
-![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/chatt3.png)
+![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/naffsi%20screenshots%20/chatt3.png)
 
-![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/book1.png)
+![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/naffsi%20screenshots%20/book1.png)
 
-![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/appointst3.png)
+![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/naffsi%20screenshots%20/appointst3.png)
 
-![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/login.png)
+![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/naffsi%20screenshots%20/login.png)
 
-![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/group1.png)
+![alt text](https://raw.githubusercontent.com/aminetoktokmessai/naffsiScreenshots/main/naffsi%20screenshots%20/group1.png)
